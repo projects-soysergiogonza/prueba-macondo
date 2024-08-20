@@ -1,0 +1,29 @@
+[
+  {
+    "firstName": "Sergio",
+    "secondName": "blablabla",
+    "firstLastName": "gonza",
+    "secondLastName": "sanchez",
+    "email": "sergio@sergio.com",
+    "phoneNumber": "123123123123",
+    "description": "sdfsdfsdfsdfsdfsdfsdfsdfsdfsdfsdf"
+  },
+  {
+    "firstName": "Sergio",
+    "secondName": "blablabla",
+    "firstLastName": "gonza",
+    "secondLastName": "sanchez",
+    "email": "soysergiogonza@gmail.com",
+    "phoneNumber": "123123123123",
+    "description": "sdfsdf"
+  },
+  {
+    "firstName": "Sergio",
+    "secondName": "blablabla",
+    "firstLastName": "gonza",
+    "secondLastName": "sanchez",
+    "email": "soysergiogonza@gmail.com",
+    "phoneNumber": "123123123123",
+    "description": "ccvb"
+  }
+]
